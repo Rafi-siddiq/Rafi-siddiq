@@ -25,4 +25,6 @@ I build dependable data tools on [Apify](https://apify.com/rsiddiq95): official 
 | [GitHub Repository Scraper](https://apify.com/rsiddiq95/github-repo-scraper) | Repository search and trending repos with stars, forks, topics and activity |
 | [Google Sheets Sync](https://apify.com/rsiddiq95/google-sheets-sync) | Send any dataset to Google Sheets, upserting rows instead of duplicating them |
 
+Every tool also works from AI assistants (Claude, ChatGPT, Cursor) through [Apify's MCP server](https://docs.apify.com/platform/integrations/mcp): add `https://mcp.apify.com?tools=rsiddiq95/<tool-name>` to your MCP client.
+
 Found a bug or need a feature? Open an issue on the tool's Apify page.
