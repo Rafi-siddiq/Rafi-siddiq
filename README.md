@@ -1,11 +1,28 @@
 ### Hi, I'm Rafi 👋
 
-I build dependable data tools for marketing and SEO on [Apify](https://apify.com/rsiddiq95).
+I build dependable data tools on [Apify](https://apify.com/rsiddiq95): official APIs or public data where possible, fair pay-per-result pricing, and failed lookups are never charged.
+
+**Marketing and SEO**
 
 | Tool | What it does |
 |---|---|
 | [Google Trends Scraper](https://apify.com/rsiddiq95/google-trends-scraper) | Interest over time, by region, related searches and Trending Now, in bulk |
 | [Google Ads Transparency Scraper](https://apify.com/rsiddiq95/google-ads-transparency-scraper) | Any advertiser's Google ads with the ad copy, dates, formats and platforms |
+| [Google Play Reviews Scraper](https://apify.com/rsiddiq95/google-play-reviews-scraper) | Android app reviews with star and date filters and developer replies |
+
+**Content and communities**
+
+| Tool | What it does |
+|---|---|
+| [Substack Scraper](https://apify.com/rsiddiq95/substack-scraper) | Newsletter posts with likes, comments, restacks and paywall status |
+| [Bluesky Scraper](https://apify.com/rsiddiq95/bluesky-scraper) | Profiles, posts and reply threads with full engagement data |
+| [Hacker News Scraper](https://apify.com/rsiddiq95/hacker-news-scraper) | Stories, Show HN, Ask HN and comments by keyword and date |
+
+**Developers and automation**
+
+| Tool | What it does |
+|---|---|
+| [GitHub Repository Scraper](https://apify.com/rsiddiq95/github-repo-scraper) | Repository search and trending repos with stars, forks, topics and activity |
 | [Google Sheets Sync](https://apify.com/rsiddiq95/google-sheets-sync) | Send any dataset to Google Sheets, upserting rows instead of duplicating them |
 
-Found a bug or need a feature? Open an issue on the tool's repo or its Apify page.
+Found a bug or need a feature? Open an issue on the tool's Apify page.
