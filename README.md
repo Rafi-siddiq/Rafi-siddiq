@@ -15,7 +15,7 @@ I build dependable data tools on [Apify](https://apify.com/rsiddiq95): official 
 
 | Tool | What it does |
 |---|---|
-| [Company Career Pages Jobs Scraper](https://apify.com/rsiddiq95/career-pages-jobs-scraper) | Every open job from Greenhouse, Lever and Ashby careers pages, with salaries and apply links |
+| [Company Career Pages Jobs Scraper](https://apify.com/rsiddiq95/career-pages-jobs-scraper) | Every open job from Greenhouse, Lever and Ashby careers pages, with salaries and apply links ([GitHub](https://github.com/Rafi-siddiq/career-pages-jobs-scraper)) |
 
 **Content and communities**
 
