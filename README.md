@@ -9,6 +9,13 @@ I build dependable data tools on [Apify](https://apify.com/rsiddiq95): official 
 | [Google Trends Scraper](https://apify.com/rsiddiq95/google-trends-scraper) | Interest over time, by region, related searches and Trending Now, in bulk |
 | [Google Ads Transparency Scraper](https://apify.com/rsiddiq95/google-ads-transparency-scraper) | Any advertiser's Google ads with the ad copy, dates, formats and platforms |
 | [Google Play Reviews Scraper](https://apify.com/rsiddiq95/google-play-reviews-scraper) | Android app reviews with star and date filters and developer replies |
+| [Apple Podcasts Scraper](https://apify.com/rsiddiq95/apple-podcasts-scraper) | Podcast search and details with latest episodes, audio links and durations |
+
+**Jobs and hiring**
+
+| Tool | What it does |
+|---|---|
+| [Company Career Pages Jobs Scraper](https://apify.com/rsiddiq95/career-pages-jobs-scraper) | Every open job from Greenhouse, Lever and Ashby careers pages, with salaries and apply links |
 
 **Content and communities**
 
